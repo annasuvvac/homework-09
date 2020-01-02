@@ -1,0 +1,25 @@
+{
+  "name": "developer-profile-generator",
+  "version": "1.0.0",
+  "description": " 09 homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ana199816/homework-09"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ana199816/homework-09/issues"
+  },
+  "homepage": "https://github.com/Ana199816/homework-09/blob/master/README.md",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "electron": "^5.0.12",
+    "electron-html-to": "^2.6.0",
+    "inquirer": "^7.0.0"
+  }
+}
