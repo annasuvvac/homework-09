@@ -9,7 +9,7 @@ The Developer Profile Generator uses Inquirer to prompt the user for a GitHub us
 # Screenshots  
  <img src="images/screen.develop.png">
  <img src="images/screen.develop2.png">
-
+<img src="images/giphy(1).gif">
 
  # Links :
 
